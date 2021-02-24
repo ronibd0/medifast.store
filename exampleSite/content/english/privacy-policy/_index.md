@@ -1,33 +1,18 @@
 ---
-title: "Terms & Conditions"
-description : "this is a meta description"
+title: "Privacy Policy"
+description : "this is the privacy policy of Medifast Store"
 draft: false
 ---
 
-Please read this terms and conditions stated below, which outline a lot of legal goodies, but the bottom line is it’s our aim to always take care of both of us, as a customer, or as a seller. We’ve included many of these terms to legally protect ourselves, but if you have an issue, always feel free to email us at contact@themefisher.com and we’ll do our best to resolve it in a fair and timely way .
+All of our content articles and blogs are prepared by our health Coach around United States and worldwide. Medifast store is working with South East regions health and food habitation because after Corona outbreak, South Asian people seems mostly strong in health rather tahn Europe or USA. So medifast Store is starting from past in South East regions of Asia, target to help people to get lifelong healthy living. All our blogs are unique and fully wrote based on life living of Asia Europe and United States. info@medifast.store and we’ll do our best to share and guide top quality health and wellness advise to all our followers.
 
-### Product Buy & delivery policy
-
-1)All payments are processed securely through PayPal or Stripe. Themefisher does not directly process payments through the website. So any kind of Problem if you face Themefisher will Not Take any responsibility.
-
-### Product Buy & delivery policy
-
-Please read this terms and conditions stated below, which outline a lot of legal goodies, but the bottom line is it’s our aim to always take care of both of us, as a customer, or as a seller. We’ve included many of these terms to legally protect ourselves, but if you have an issue, always feel free to email us at contact@themefisher.com and we’ll do our best to resolve it in a fair and timely way .
-
-### Refund Policy
-
-1) Since Themefisher is offering non-tangible and irrevocable digital products, we do NOT issue refunds after a purchase is made. If there is a problem with one of the digital download products or if you experience any difficulty with the download, we will fix the problem.
-2) You have 24 hours to inspect your purchase and to determine if it does not meet with the expectations laid forth by The Themefisher. In the event that you wish to receive a refund, Themefisher will issue you a refund and ask you to specify how the product failed to live up to expectations.
-3) When you make a qualifying return, We’ll credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
+1)Medifast all content and advise from Medifast Approved health coach guide suggested products we only share online.
 
 ### Support Policy
-1) Since Themefisher is offering non-tangible and irrevocable digital products, we do NOT issue refunds after a purchase is made. If there is a problem with one of the digital download products or if you experience any difficulty with the download, we will fix the problem.
-2) You have 24 hours to inspect your purchase and to determine if it does not meet with the expectations laid forth by The Themefisher. In the event that you wish to receive a refund, Themefisher will issue you a refund and ask you to specify how the product failed to live up to expectations.
-3) When you make a qualifying return, We’ll credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
 
-### Why We Support:
+1) Write us anytime you need support. We will reply you within an hour max 24 hour.
 
-1. Support covers getting up and help in theme setup
-2. Help using features and theme options
-3. Bug fixes – if you discovered a bug in the theme/Template we will fix it
-4. Functionality which does not work as advertised
+### Why We Support
+
+1) SBecause Medifast is a non-profit organisation and we love to help our future
+2) Functionality which does not work as advertised.

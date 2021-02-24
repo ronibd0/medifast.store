@@ -1,8 +1,8 @@
 ################################### Default Configuration ############################
-baseurl = "http://medifast.store"
+baseurl = "https://medifast.store"
 canonifyurls = ["true"]
 title = "Medifast Store | Medifast Store online"
-theme = "gox-hugo"
+theme = "medifast.store"
 # post excert
 summarylength = "20"
 # google analytics

@@ -1,18 +1,18 @@
 # theme.toml for the Vex Hugo theme
 
-name = "Vex"
+name = "Medifast"
 license = "MIT"
-licenselink = "https://github.com/themefisher/vex-hugo/blob/master/LICENSE"
-description = "Vex by Themefisher ported to Hugo"
-homepage = "https://gethugothemes.com/products/vex-hugo-theme/"
-tags = ["onepage", "bootstrap", "ecommerce", "single product", "product", "themefisher","gethugothemes"]
+licenselink = "https://github.com/ronibd0/medifast.store/master/LICENSE"
+description = "medifast by goc ported to Hugo"
+homepage = "https://github.com/ronibd0/medifast.store"
+tags = ["medifast", "medifas store", "healthy-living", "nutri", "pure-protein", "protein-shake","medifast-products", "medifast-bar", "medifast-cooking", "medifast-optavia", "medifast-coach", "optavia"]
 features = ["onepage", "product"]
 min_version = "0.62.2"
 
 [author]
-  name = "Themefisher"
-  homepage = "https://themefisher.com/"
+  name = "Medifast"
+  homepage = "https://medifast.store/"
 
 [original]
-  name = "Vex"
-  homepage = "https://themefisher.com/products/vex-bootstrap4-product-landing-page-website-template/"
+  name = "gox"
+  homepage = "https://github.com/ronibd0/medifast.store/master"

@@ -1,17 +1,14 @@
 ################################### Default Configuration ############################
-baseurl = "http://examplesite.com/"
-title = "Vex | hugo landing page template"
-theme = "vex-hugo"
+baseurl = "http://medifast.store"
+canonifyurls = ["true"]
+title = "Medifast Store | Medifast Store online"
+theme = "gox-hugo"
 # post excert
 summarylength = "20"
 # google analytics
-googleAnalytics = "" # Ex: UA-123-45
+googleAnalytics = "UA-163333643-2"
 # disable language
-disableLanguages = [] # disable language from here
-
-# unsafe html
-[markup.goldmark.renderer]
-unsafe = true
+disableLanguages = ["fr"]
 
 #################################### Plugins ##########################################
 
@@ -25,7 +22,7 @@ link = "plugins/themefisher-font/themefisher-font.min.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.min.css"
 [[params.plugins.css]]
-link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.css"
+link = "https://cdn.snipcart.com/themes/v3.0.3/default/snipcart.css"
 
 # JS Plugins
 [[params.plugins.js]]
@@ -35,7 +32,7 @@ link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
 [[params.plugins.js]]
-link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
+link = "https://cdn.snipcart.com/themes/v3.0.3/default/snipcart.js"
 
 
 ###################################### Navigation ######################################
@@ -43,49 +40,45 @@ link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
 # homepage section menu
 [[menu.main]]
 name = "Home"
-url = "/"
+URL = ""
 weight = 1
 
+# main menu
 [[menu.main]]
 name = "Products"
-url = "products"
+URL = "products"
 weight = 2
 
+# main menu
 [[menu.main]]
 name = "Blog"
-url = "blog"
+URL = "blog"
 weight = 3
 
 [[menu.main]]
-name = "Review"
-pre = "#"
-url = "testimonial"
-weight = 4
-
-[[menu.main]]
 name = "Contact"
-url = "contact"
-weight = 5
+URL = "contact"
+weight = 4
 
 # footer menu
 [[menu.footer]]
 name = "Blog"
-url = "blog"
+URL = "blog"
 weight = 1
 
 [[menu.footer]]
 name = "Contact"
-url = "contact"
+URL = "contact"
 weight = 2
 
 [[menu.footer]]
 name = "Terms & Conditions"
-url = "terms-conditions"
+URL = "terms-conditions"
 weight = 3
 
 [[menu.footer]]
 name = "Privacy Policy"
-url = "privacy-policy"
+URL = "privacy-policy"
 weight = 4
 
 
@@ -94,26 +87,30 @@ weight = 4
 logo = "images/logo.png"
 logo_width = "100px"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Medifast store for healthy living"
+author = "Medifast"
 # currency
 currency = "$"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # snipcart public api key
-snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
+# snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
 
-# Preloader
-[params.preloader]
-enable = true
-preloader = "" # use .png , .svg or .gif format
+# [params.preloader]
+# enable = "true"
+# preloader = "images/pre.gif"
 
-# Subscription
-[params.subscription]
-# mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
 
+# Product Rating
+# it works with https://rating-widget.com/ , you will get the ID and publicKey after creating your account there.
+# [params.rating]
+# enable = "true"
+# websiteID = "444334"
+# publicKey = "811cf0927332bf51f2e12f84608594ac"
+
+# [params.subscription]
+# mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
+# mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 
 ################################### English language #####################################
 [Languages.en]
@@ -122,14 +119,20 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "All Rights At [Medifast](https://medifast.store/) & Amazon Associated Program [Amazon](https://amzn.to/3j3ar3X/)"
+
+[outputs]
+    home = ["HTML"]
+
+
+
 
 
 ################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
+# [Languages.fr]
+# languageName = "Fr"
+# languageCode = "fr-fr"
+# contentDir = "content/french"
+# weight = 2
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+# copyright = "All Rights At [Medifast](https://medifast.store/) & Amazon Associated Program [Amazon](https://amzn.to/3j3ar3X/)"

@@ -1,13 +1,13 @@
 ---
 title: "Contact"
-description : "this is a meta description"
+description : "contact with Medifast"
 
 office:
   title : "Central Office"
-  mobile : "0124857985320"
-  email : "demo@email.com"
-  location : "Dhaka, Bangladedsh"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
+  mobile : "+1 872 281 8839"
+  email : "info@medifast.store"
+  location : "Raleigh, NC 27695, United States"
+  content : "We are happy to help our customers"
 
 # opennig hour
 opennig_hour:

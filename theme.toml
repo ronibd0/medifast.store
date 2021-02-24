@@ -14,5 +14,5 @@ min_version = "0.62.2"
   homepage = "https://medifast.store/"
 
 [original]
-  name = "gox"
+  name = "medifast.store"
   homepage = "https://github.com/ronibd0/medifast.store/"

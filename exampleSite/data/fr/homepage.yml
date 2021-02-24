@@ -1,9 +1,9 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "Believe in Technology, Make the change"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
-  image : "images/watch.png"
+  title : "Time of Healthy Habit, Make the change"
+  content : "Medifast Store is an online platform of the fastest growing health and wellness Optavia to Buy Pure Proteins and Nutrisystems"
+  image : "images/banner.png"
   button:
    enable : true
    label : "Browse All Products"
@@ -13,81 +13,81 @@ banner:
 features:
   enable : true
   title : "Our Core Features"
-  image : "images/watch-2.png"
+  image : "images/banner-main.png"
 
   # feature at the left of the image
   left_side:
     # feature item loop
-  - title : "Smooth Touch"
+  - title : "Health"
     icon : "tf-ion-ios-alarm-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "High protein low fat foods, healthy protiens and diet plan keeps us healthy constantly."
     
     # feature item loop
-  - title : "Elegant Design"
+  - title : "Wellbeing"
     icon : "tf-ion-ios-bell-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "Medifast means the fastest growing health and wellness communities to transform healthy habits."
     
     # feature item loop
-  - title : "Easy Pricing"
-    icon : "tf-ion-ios-cart-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+  - title : "Transformation"
+    icon : "tf-ion-ios-bell-outline"
+    content : "We are helping people to achieve optical goal thru healthy diet transformations in a scientific way!"
 
 
   # feature at the right of the image
   right_side:
     # feature item loop
-  - title : "Smooth Touch"
+  - title : "Habits"
     icon : "tf-ion-ios-alarm-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "Medifast is helping people to avoid bad habits and develop good habits the power of success."
 
     # feature item loop
-  - title : "Elegant Design"
-    icon : "tf-ion-ios-bell-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+  - title : "Nutrisystems"
+    icon : "tf-ion-ios-alarm-outline"
+    content : "Medifast nutrisystem is guide to the success of holistic wellness and our prodcuts are the catalyst of your healthy living."
 
     # feature item loop
-  - title : "Easy Pricing"
-    icon : "tf-ion-ios-cart-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+  - title : "Purity"
+    icon : "tf-ion-ios-alarm-outline"
+    content : "Medifast suggested products purity analyses the successs of healthy nutrient foods reflecting the success of life."
 
 
 ############################# promo ############################
 promo:
   enable : true
-  image : "images/watch.png"
-  title : "Designed by professional , the benefit for creative gigs"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
-            nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
+  image : "images/f1.png"
+  title : "We Offer Healthy Nutrisystems , Pure Transformation"
+  content : "Be part of a dynamic Medifast Team of highly motivated people who share a passion for helping us achieve Lifelong Transformation, One Healthy Habit at a Time with Medifast Store.
             <br><br>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
+            Healthy living is the main motto of Medifast and thus trying here to keep our health strong and diet in a way of nutri."
 
 
 ############################# About Product #######################
 about_product:
   enable : true
-  title : "Why Choose Apple Watch"
+  title : "Why Choose Medifast Pure Nutri"
   items:
     # about product item loop
-    - image : "images/showcase/showcase-4.png"
-      title : "Lorem ipsum dolor sit amet."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
+    - image : "images/2.png"
+      title : "Average weight loss on the Optimal Weight 5&1 Plan"
+      content : "Average weight loss on the Optimal Weight 5&1 Plan is 12 pounds. Clients are in weight loss, on average, for 12 weeks. 
+      Medifast Survey Finds 88% of People Experiencing Stress During Pandemic. 
+      <br><br>
+      Then she started exercising and eating lean protein with grilled veggies. It took time, but she dropped 167 pounds. 
+      
+      "
       button:
         enable : false
         label : "Check Features"
-        link : "#"
+        link : "blog"
         
     # about product item loop
-    - image : "images/showcase/showcase-3.png"
-      title : "Lorem ipsum dolor sit amet."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
+    - image : "images/3.png"
+      title : "Medifast means Lifelong Transformation"
+      content : "Based on nearly 40 years of experience , Medifast offers a sustainable team to help us, Medifats believe that the best way for people to reach their health and wellness goals is through scientifically proven plans combined with our independent Coaches that provide individualized support. Welcome to the Medifast store to get approved foods for your life."
       button:
         enable : false
         label : "Check Features"
-        link : "#"
+        link : "products"
 
 
 #################################### Products ########################
@@ -99,9 +99,9 @@ products:
 ################################## Subscription ###################
 subscription:
   enable : true
-  bg_image : "images/call-to-action.jpg"
+  bg_image : "images/4.png"
   title : "Get Product Updates"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+  content : "Get all latest Medifast Nominated most healthier prodcuts update"
   placeholder : "Your Email Address Here"
 
 
@@ -111,19 +111,19 @@ testimonial:
   title : "Watch Review"
   testimonial_item:
     # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name : "Jim Maloney"
+      designation : "Chief Financial Officer of Medifast"
+      image : "images/jim.png"
+      content : "Prior to joining Medifast, Mr. Maloney served as Senior Vice President Chief Financial Officer of L.B. Foster Company, a global manufacturer and distributor of products and services for transportation and energy infrastructure. "
       
     # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name : "Dan Chard"
+      designation : "Chairman and Chief Executive Officer - Medifast"
+      image : "images/dan-chard.png"
+      content : "With an experienced leadership team and dedicated independent OPTAVIA Coaches, the company is well positioned to capitalize on numerous growth opportunities – reflecting the success of our approach to optimal health and wellbeing for our Clients."
       
     # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name : "Tony Tyree"
+      designation : "Chief Marketing Officer of Medifast"
+      image : "images/tony.png"
+      content : "Tyree brings more than 25 years of experience in global integrated marketing, brand strategy, product and platform innovation and portfolio revitalization across various business-to-business and consumer retail products."

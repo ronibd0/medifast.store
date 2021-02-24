@@ -2,7 +2,7 @@
 
 name = "Medifast"
 license = "MIT"
-licenselink = "https://github.com/ronibd0/medifast.store/master/LICENSE"
+licenselink = "https://github.com/ronibd0/medifast.store/LICENSE"
 description = "Medifast by goc ported to Hugo"
 homepage = "https://github.com/ronibd0/medifast.store"
 tags = ["medifast", "medifas store", "healthy-living", "nutri", "pure-protein", "protein-shake","medifast-products", "medifast-bar", "medifast-cooking", "medifast-optavia", "medifast-coach", "optavia"]
@@ -15,4 +15,4 @@ min_version = "0.62.2"
 
 [original]
   name = "gox"
-  homepage = "https://github.com/ronibd0/medifast.store/master"
+  homepage = "https://github.com/ronibd0/medifast.store/"
